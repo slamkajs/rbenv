@@ -181,6 +181,8 @@ easy to fork and contribute any changes back upstream.
 4. Restart your shell as a login shell so the path changes take effect.
     You can now begin using rbenv.
 
+    **Ubuntu note**: You need to logout/login for terminal to recognize rbenv.
+
     ~~~ sh
     $ exec $SHELL -l
     ~~~
